@@ -1,3 +1,6 @@
+改自yunshengyuze/glados_automation，将使用pushplus推送改为企业微信机器人推送。
+以下为原仓库内容。
+
 # glados自动签到，实现无限白嫖。
 
 环境变量：`GLADOS_COOKIE`（必要） 和 `PUSHPLUS_TOKEN`（非必要）
